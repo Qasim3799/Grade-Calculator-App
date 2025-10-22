@@ -1,5 +1,3 @@
-const { StrictMode } = require("react");
-
 function getGrade(event){
     event.preventDefault();
 
